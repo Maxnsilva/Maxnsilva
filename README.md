@@ -1,4 +1,6 @@
-## Hi there 👋
+## 🖥️ Estudante de Desenvolvimento de Sistemas — SENAC
+
+Atualmente curso Técnico em Desenvolvimento de Sistemas pelo SENAC, com foco em desenvolver uma base sólida em programação.
 
 <!--
 **Maxnsilva/Maxnsilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
