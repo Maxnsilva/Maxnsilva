@@ -1,7 +1,8 @@
 ## 🖥️ Estudante de Desenvolvimento de Sistemas — SENAC
 
 Atualmente curso Técnico em Desenvolvimento de Sistemas pelo SENAC, com foco em desenvolver uma base sólida em programação.
-
+![Python](https://img.shields.io/badge/Python-1a1a1a?style=for-the-badge&logo=python&logoColor=white)
+![Stats](https://github-readme-stats.vercel.app/api?username=Maxnsilva&show_icons=true&theme=dark&hide_border=true)
 <!--
 **Maxnsilva/Maxnsilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
