@@ -1,6 +1,6 @@
 ## 🖥️ Estudante de Desenvolvimento de Sistemas — SENAC
 
-Me achamo Max e atualmente curso Técnico em Desenvolvimento de Sistemas pelo SENAC, com foco em desenvolver uma base sólida em programação.
+Me chamo Max e atualmente curso Técnico em Desenvolvimento de Sistemas pelo SENAC, com foco em desenvolver uma base sólida em programação.
 ![Python](https://img.shields.io/badge/Python-1a1a1a?style=for-the-badge&logo=python&logoColor=white)
 ![Stats](https://github-readme-stats.vercel.app/api?username=Maxnsilva&show_icons=true&theme=dark&hide_border=true)
 <!--
